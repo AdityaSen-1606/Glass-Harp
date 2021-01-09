@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+    title={text align:center}
     <meta charset="utf-8" />
     <title>Drum Kit</title>
     <link rel="stylesheet" href="styles.css" />
@@ -12,7 +13,7 @@
   </head>
 
   <body>
-    <h1 id="title">Drum 🥁 Kit</h1>
+    <h1 id="title">Glass Harp</h1>
     <div class="set">
       <button class="w drum">w</button>
       <button class="a drum">a</button>
@@ -24,10 +25,10 @@
     </div>
 
     <footer>
-      Made with ❤️ by
+      Made with  by Codes Cadre
       <a
         style="color:rgb(221, 230, 238); text-decoration:none"
-        href="https://github.com/yogain123"
+        href=https://adityasen-1606.github.io/Glass-Harp/
         >Yogendra</a
       >
     </footer>
